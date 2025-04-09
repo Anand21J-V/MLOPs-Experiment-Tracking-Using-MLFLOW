@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/MLOPs/MLOPs-Experiment-Tracking-Using-MLFLOW/mlruns/605790015372905033/6d90d8c5824942fc97edb83585455f2a/artifacts
+end_time: 1744188737108
+entry_point_name: ''
+experiment_id: '605790015372905033'
+lifecycle_stage: active
+run_id: 6d90d8c5824942fc97edb83585455f2a
+run_name: bright-duck-654
+run_uuid: 6d90d8c5824942fc97edb83585455f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188737022
+status: 3
+tags: []
+user_id: LENOVO

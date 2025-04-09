@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/MLOPs/MLOPs-Experiment-Tracking-Using-MLFLOW/mlruns/605790015372905033/5dc87a0ffbc24dab9bb823a6b082274f/artifacts
+end_time: 1744188747717
+entry_point_name: ''
+experiment_id: '605790015372905033'
+lifecycle_stage: active
+run_id: 5dc87a0ffbc24dab9bb823a6b082274f
+run_name: amazing-midge-64
+run_uuid: 5dc87a0ffbc24dab9bb823a6b082274f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188732153
+status: 3
+tags: []
+user_id: LENOVO

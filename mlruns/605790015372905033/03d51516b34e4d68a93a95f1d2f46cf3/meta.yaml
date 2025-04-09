@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/MLOPs/MLOPs-Experiment-Tracking-Using-MLFLOW/mlruns/605790015372905033/03d51516b34e4d68a93a95f1d2f46cf3/artifacts
+end_time: 1744188842772
+entry_point_name: ''
+experiment_id: '605790015372905033'
+lifecycle_stage: active
+run_id: 03d51516b34e4d68a93a95f1d2f46cf3
+run_name: omniscient-sheep-370
+run_uuid: 03d51516b34e4d68a93a95f1d2f46cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188842717
+status: 3
+tags: []
+user_id: LENOVO

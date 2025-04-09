@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/MLOPs/MLOPs-Experiment-Tracking-Using-MLFLOW/mlruns/605790015372905033/9367ae3237da43a2825bcca6d9176615/artifacts
+end_time: 1744188842432
+entry_point_name: ''
+experiment_id: '605790015372905033'
+lifecycle_stage: active
+run_id: 9367ae3237da43a2825bcca6d9176615
+run_name: judicious-mare-395
+run_uuid: 9367ae3237da43a2825bcca6d9176615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188842383
+status: 3
+tags: []
+user_id: LENOVO

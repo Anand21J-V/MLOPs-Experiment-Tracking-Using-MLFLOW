@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/MLOPs/MLOPs-Experiment-Tracking-Using-MLFLOW/mlruns/605790015372905033/0acab95ea1ae4d87905caf71be03d312/artifacts
+end_time: 1744188842851
+entry_point_name: ''
+experiment_id: '605790015372905033'
+lifecycle_stage: active
+run_id: 0acab95ea1ae4d87905caf71be03d312
+run_name: amusing-kite-773
+run_uuid: 0acab95ea1ae4d87905caf71be03d312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744188842777
+status: 3
+tags: []
+user_id: LENOVO
